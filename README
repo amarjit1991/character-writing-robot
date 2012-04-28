@@ -1,19 +1,21 @@
-BE_Project_2012  Group 6 : Character Writing Robot README
-================================================
+BE_Project_2012  Group 6 : Character Writing Robot 
+===================================================
 
 Group Info:
-------------
+============
+
 +   Amarjit Prasad (BE EXTC)
 +   Abhishek Kharche (BE COMPS)
 +   Chinmay Pednekar (BE COMPS)
 +   Vaibhav Naidu (BE COMPS)
 
-Project Description
--------------------
+Project Description:
+=====================
+
 With the developing field of robotics, many researches are going on to make robots more human like. One of the challenging quests is to make robots write like humans. This is what our project is all about. We are programing a SPARK robot to write on a piece of paper. Characters are input using keyboard and the robot writes on a piece of paper using a self developed mechanism.
 
-Technologies Used
--------------------
+Technologies Used:
+===================
 
 +   Embedded C
 +   Xbee
@@ -23,15 +25,15 @@ Technologies Used
 +   Visual ++
 +   AVR Studio
 
-Installation Instructions
-=========================
+Installation Instructions:
+===========================
 
 For viewing the applet we created you need to download and install java runtime environment from [here](http://www.java.com/en/download/index.jsp).
 
 For giving input to the robot you have to just double click the GUI application we have uploaded within.
 
-References
-===========
+References:
+============
 
 + [Jacobian matrix and determinant](http://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
 + [Spark V](http://www.nex-robotics.com/products/spark-v-robot/spark-v.html)
